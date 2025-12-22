@@ -1,0 +1,19 @@
+# Ignore .env file (contains secrets or configs)
+.env
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore all __pycache__ folders recursively
+__pycache__/
+
+# Or, more explicitly ignore __pycache__ anywhere in the project
+**/__pycache__/
+
+# (Optional but recommended) Ignore Python cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
