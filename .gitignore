@@ -4,6 +4,10 @@
 # Ignore virtual environment folder
 venv/
 
+# Ignore artifact folder
+artifact/
+notebook/
+
 # Ignore all __pycache__ folders recursively
 __pycache__/
 

@@ -11,6 +11,7 @@ folders=(
   "pipeline"
   "notebook"
   "exceptions"
+  "UI"
 )
 
 # Create folders and __init__.py inside each
@@ -22,5 +23,6 @@ done
 # Create root-level files
 touch .env
 touch README.md
+touch requirements.txt
 
 echo "✅ OmniTask AI base structure created successfully."

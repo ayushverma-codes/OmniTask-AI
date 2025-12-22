@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+aiofiles
+pypdf
+easyocr
+faster-whisper
+python-multipart
+requests
