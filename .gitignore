@@ -7,6 +7,7 @@ venv/
 # Ignore artifact folder
 artifact/
 notebook/
+models/
 
 # Ignore all __pycache__ folders recursively
 __pycache__/
@@ -21,3 +22,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+collection.py
+collected_code_with_structure.txt
